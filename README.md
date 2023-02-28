@@ -1,10 +1,6 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinPi7&layout=compact&langs_count=168&theme=onedark" />
-</div>
-<br />
-<div align="center">
   <p>
     I'm Cinthia, a web developer based in Florianópolis, Brazil. <br />
     My background goes to Information and Communication Technology and I'm focused on web experiences. <br />
@@ -13,6 +9,10 @@
     Interested in a collab? I'm available for freelance sideprojects. Just Say "olá!" <br />
   </p>
  </div>
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinPi7&layout=compact&langs_count=168&theme=onedark" />
+</div>
 <br />
 <div align="center">  
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
