@@ -1,7 +1,7 @@
 ##
 
 <div align="center" >
-  <p style="color:blue">
+  <p>
     I'm Cinthia, a web developer based in Florianópolis, Brazil. <br />
     My background goes to Information and Communication Technology and I'm focused on web experiences. <br />
     My childhood was at a small city in Brazil, a really peaceful place to live. That led my curiosity to grow and goes from psychology, design and     technology. <br />
