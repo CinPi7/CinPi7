@@ -4,7 +4,7 @@
   <p>
     I'm Cinthia, a web developer based in Florianópolis, Brazil. <br />
     My background goes to Information and Communication Technology and I'm focused on web experiences. <br />
-    My childhood was at a small city in Brazil, a really peaceful place to live. That led my curiosity to grow and goes from psychology, design and     technology. <br />
+    My childhood was at a small city in Brazil, a really peaceful place to live. That led my curiosity to grow and go from psychology, design and     technology. <br />
     If you have something beautiful to share with the world, I can help you with that. <br />
     Interested in a collab? I'm available for freelance sideprojects. Just Say "olá!" <br />
   </p>
