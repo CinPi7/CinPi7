@@ -1,6 +1,6 @@
 ##
 
-<div align="center">
+<div align="center" style="color:#f1f1f1">
   <p>
     I'm Cinthia, a web developer based in Florianópolis, Brazil. <br />
     My background goes to Information and Communication Technology and I'm focused on web experiences. <br />
