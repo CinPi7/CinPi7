@@ -10,10 +10,6 @@
   </p>
  </div>
 <br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinPi7&layout=compact&langs_count=168&theme=onedark" />
-</div>
-<br />
 <div align="center">  
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
