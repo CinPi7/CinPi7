@@ -20,6 +20,9 @@
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
 </div>
 
+<a href='https://holopin.io/@vinitshahdeo'>
+    <img src='https://holopin.onrender.com/CinPi7'/>
+</a>
 
 ##
 
