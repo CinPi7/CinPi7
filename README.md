@@ -13,14 +13,10 @@
 
 <p>I'm passionate about research, collaboration, programming, and creativity!</p>
 
-<br />
-
 ## :star:	Get in touch 
 
 <p>If you have something beautiful to share with the world, I can help you with that.</p>
 <p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
-
-<br />
 
 ## :butterfly:	Tech Stacks
 
