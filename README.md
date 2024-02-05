@@ -19,7 +19,7 @@
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
 </div>
-
+< br/>
 <p>Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives.</p>
 
 <p>I'm passionate about research, collaboration, programming, and creativity!</p>
