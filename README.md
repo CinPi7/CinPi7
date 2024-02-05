@@ -23,7 +23,7 @@
 <br/>
 <p> :butterfly: Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives.</p>
 
-<p> :ant: I'm passionate about research, collaboration, programming, and creativity!</p>
+<p> :bee: I'm passionate about research, collaboration, programming, and creativity!</p>
 
 ## :star:	Get in touch 
 
