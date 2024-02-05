@@ -1,16 +1,28 @@
-##
-
-<div align="center" >
-  <p>
-    I'm Cinthia, a web developer based in Florianópolis, Brazil. <br />
-    My background goes to Information and Communication Technology and I'm focused on web experiences. <br />
-    My childhood was at a small city in Brazil, a really peaceful place to live. That led my curiosity to grow and goes from psychology, design and     technology. <br />
-    If you have something beautiful to share with the world, I can help you with that. <br />
-    Interested in a collab? I'm available for freelance sideprojects. Just say "olá!" <br />
-  </p>
+ # :wave: Hello, world!
+ 
+<div align="center" width="300px">
+   ## About me
+    <p>I'm Cinthia, passionate about software engineering, information, and communication.</p>
+    <p>My childhood was in a small city in Brazil, a peaceful place to live. Now I'm living in Florianópolis, Brazil.</p>
+  ## My Experience
+    <p>
+      As a Front-end Developer, I have over three years of experience in creating user experiences for web applications that are user-friendly, interactive, intuitive, responsive, and scalable. I am always eager to improve and learn new skills, explore new challenges, and collaborate with others who share the passion and understanding for valuable purposes and good practices.
+    </p>
+    <p>
+      I’ve had the opportunity to work on several projects, either in the health or financial industry, where I could further enhance my experience. My expertise lies in JavaScript, React, Angular, Material Design, and other front-end technologies and frameworks. I also have a solid background in Information and Communication Technologies, with a degree from the Federal University of Santa Catarina and an exchange program in Canada. Additionally, I have a keen interest in the intersection of psychology, design, and technology, and how they influence human behavior and society.
+    </p>
+    <p>
+      Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives. 
+    </p>
+    <p>I'm passionate about research, collaboration, programming, and creativity!</p>
+    <br />
+  ## Get in touch 
+    <p>If you have something beautiful to share with the world, I can help you with that.</p>
+    <p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
  </div>
 <br />
 <div align="center">  
+  ## Tech Stacks
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" /> 
@@ -19,10 +31,6 @@
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
 </div>
-
-
-##
-
 
 <!--
 **CinPi7/CinPi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
