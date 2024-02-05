@@ -9,17 +9,7 @@
 
 <p>I’ve had the opportunity to work on several projects, either in the health or financial industry, where I could further enhance my experience. My expertise lies in JavaScript, React, Angular, Material Design, and other front-end technologies and frameworks. I also have a solid background in Information and Communication Technologies, with a degree from the Federal University of Santa Catarina and an exchange program in Canada. I have a keen interest in the intersection of psychology, design, and technology, and how they influence human behavior and society.</p>
 
-<p>Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives.</p>
-
-<p>I'm passionate about research, collaboration, programming, and creativity!</p>
-
-## :star:	Get in touch 
-
-<p>If you have something beautiful to share with the world, I can help you with that.</p>
-<p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
-
-## :butterfly:	Tech Stacks
-
+### :butterfly:	Tech Stacks
 <div align="center">
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
@@ -29,6 +19,17 @@
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
 </div>
+
+<p>Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives.</p>
+
+<p>I'm passionate about research, collaboration, programming, and creativity!</p>
+
+## :star:	Get in touch 
+
+<p>If you have something beautiful to share with the world, I can help you with that.</p>
+<p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
+
+
 
 <!--
 **CinPi7/CinPi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
