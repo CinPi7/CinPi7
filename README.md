@@ -2,7 +2,7 @@
  
  ## :white_heart:	About me 
 <p>I'm Cinthia, passionate about software engineering, information, and communication. </p>
-<p>My childhood was in a small city in Brazil, a peaceful place to live, which led me to grow and develop a special affection for technology. I'm currently living in Florianópolis, Brazil.</p>
+<p>My childhood was in a small city in Brazil, a peaceful place to live, which led me to grow and develop a special affection for technology.</p>
 
 ## :rocket:	My Experience 
 <p>As a Front-end Developer, I have over three years of experience in creating user experiences for web applications that are user-friendly, interactive, intuitive, responsive, and scalable. I am always eager to learn and improve skills, explore new challenges, and collaborate with others who share the passion and understanding for valuable purposes and good practices.</p>
