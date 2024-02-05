@@ -15,12 +15,14 @@
 
 <br />
 
-## 	:butterfly: Get in touch 
+## :star:	Get in touch 
 
 <p>If you have something beautiful to share with the world, I can help you with that.</p>
 <p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
 
-## :black_heart:	Tech Stacks
+<br />
+
+## :butterfly:	Tech Stacks
 
 <div align="center">
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
