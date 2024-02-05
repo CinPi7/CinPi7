@@ -20,8 +20,9 @@
 <p>If you have something beautiful to share with the world, I can help you with that.</p>
 <p>Interested in a collab? I'm available for freelance side projects. Just say "olá!" </p>
 
-<br />
 ## :black_heart:	Tech Stacks
+
+<div align="center">
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" /> 
@@ -29,6 +30,7 @@
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/>
 <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+</div>
 
 <!--
 **CinPi7/CinPi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
