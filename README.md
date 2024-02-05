@@ -7,7 +7,7 @@
 ## :rocket:	My Experience 
 <p>As a Front-end Developer, I have over three years of experience in creating user experiences for web applications that are user-friendly, interactive, intuitive, responsive, and scalable. I am always eager to learn and improve skills, explore new challenges, and collaborate with others who share the passion and understanding for valuable purposes and good practices.</p>
 
-<p>I’ve had the opportunity to work on several projects, either in the health or financial industry, where I could further enhance my experience. My expertise lies in JavaScript, React, Angular, Material Design, and other front-end technologies and frameworks. I also have a solid background in Information and Communication Technologies, with a degree from the Federal University of Santa Catarina and an exchange program in Canada. I have a keen interest in the intersection of psychology, design, and technology, and how they influence human behavior and society.</p>
+<p>I’ve had the opportunity to work on projects, either in the health or financial industry, where I could further enhance my experience. My expertise lies in JavaScript, React, Angular, Material Design, and other front-end technologies and frameworks. I also have a solid background in Information and Communication Technologies, with a degree from the Federal University of Santa Catarina and an exchange program in Canada. I have a keen interest in the intersection of psychology, design, and technology, and how they influence human behavior and society.</p>
 
 <div align="center" font-size="18px"> :hammer_and_wrench:	Tech Stacks </div>
 <br/>
