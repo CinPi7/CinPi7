@@ -1,7 +1,7 @@
  # :wave: Hello, world!
  
  ## :white_heart:	About me 
-<p>I'm Cinthia, passionate about software tech, information, and communication. </p>
+<p>I'm Cinthia, passionate about tech, information, and communication. </p>
 <p>My childhood was in a small city in Brazil, a peaceful place to live, which led me to grow and develop a special affection for technology.</p>
 
 ## :rocket:	My Experience 
