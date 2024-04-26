@@ -2,7 +2,7 @@
  
  ## :white_heart:	About me 
 <p>I'm Cinthia, passionate about tech, information, and communication. </p>
-<p>My childhood was in a small city in Brazil, a peaceful place to live in the Serra Catarinense. After some years, I lived in different cities while studying and working, which led me to grow and develop a special affection for Information, Communication, and Technology</p>
+<p>My childhood was in a small city in Brazil, a peaceful place nestled in the Serra Catarinense. After some years, I lived in different cities while studying and working, which led me to grow and develop a special affection for Information, Communication, and Technology. I enjoy understanding how technology can benefit society through knowledge and wise decisions, and I believe that assertive communication is always a good choice, especially through the web.</p>
 
 ## :rocket:	My Experience 
 <p>As a Front-end Developer, I have over three years of experience in creating user experiences for web applications that are user-friendly, responsive, and scalable. I am always eager to learn and improve skills, explore new challenges, and collaborate with others who share the passion and understanding for valuable purposes and good practices.</p>
