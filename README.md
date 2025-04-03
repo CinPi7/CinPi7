@@ -1,14 +1,7 @@
- # :wave: Hello, world!
+ # :wave: Hey!
  
  ## :white_heart:	About me 
-<p>I'm Cinthia, a web developer based in Florianópolis, Brazil. My background is in Information and Communication Technology, and I'm focused on web experiences. My childhood was in a small city in Brazil, a genuinely peaceful place to live. This sparked my curiosity to grow and encompass psychology, design, and technology.</p>
-
-## :rocket:	My Experience 
-<p>As a Front-end Developer, I have over three years of experience in creating user experiences for web applications that are user-friendly, responsive, and scalable. I am always eager to learn and improve skills, explore new challenges, and collaborate with others who share the passion and understanding for valuable purposes and good practices.</p>
-
-<p>I’ve had the opportunity to work on projects, either in the health or financial industry, where I could further enhance my experience. My expertise lies in JavaScript, React, Angular, Material Design, and other front-end technologies and frameworks. I also have a solid background in Information and Communication Technologies, with a degree from the Federal University of Santa Catarina and an exchange program in Canada. I have a keen interest in the intersection of psychology, design, and technology, and how they influence human behavior and society.</p>
-
-<p> :butterfly: Additionally, I’ve been polishing skills in problem-solving and assertive communication, increasing my understanding and perspectives.</p>
+<p>I'm Cinthia, a web developer based in Florianópolis, Brazil. </p>
 
 <p> :bee: I'm passionate about research, collaboration, programming, and creativity!</p>
 
