@@ -1,9 +1,9 @@
- # :wave: Hey!
+ # :wave: Hey there!
  
  ## :white_heart:	About me 
-<p>I'm Cinthia, a web developer based in Florianópolis, Brazil. </p>
+<p>Welcome! I'm Cinthia, a web developer based in Florianópolis, Brazil. </p>
 
-<p> :bee: I'm passionate about research, collaboration, programming, and creativity!</p>
+<p> :bee: I'm passionate about research, programming, and creativity!</p>
 
 ## :hammer_and_wrench: Stacks
 
