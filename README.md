@@ -1,4 +1,4 @@
- # :wave: Welcome to my Portfolio! :white_heart:	
+ # Welcome! :white_heart:	
  
 <p>I'm a web developer based in Florianópolis, Brazil.</p>
 <p>If you have something beautiful to share with the world, I can help you with that. Just say "olá"! :bee:</p>
